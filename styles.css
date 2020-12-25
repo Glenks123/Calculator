@@ -4,11 +4,11 @@ body{
 
 .container{
     width: 320px;
-    margin: 120px auto;
+    margin: 120px auto auto 500px;
 }
 
 table{
-    width: 100%;
+    width: 150%;
     border: #f4f4f4;
 }
 
